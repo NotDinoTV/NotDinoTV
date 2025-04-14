@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, ich bin Dino</h1>
 
-<!--
-**NotDinoTV/NotDinoTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧑‍💻 16 Jahre alt · Java & Kotlin Fullstack Dev · Helper auf dem <strong>Dani SMP</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Über mich
+- 🔭 Ich arbeite aktuell an coolen Minecraft-Projekten  
+- 🌱 Lerne ständig neue Dinge, besonders rund um Java & Kotlin  
+- 🧰 Setze auf sauberen Code und gute Strukturen  
+- 🕹️ In meiner Freizeit: Zocken, Coden, Community helfen  
+
+---
+
+### 🛠️ Sprachen & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</p>
+
+---
+
+### 📫 Kontakt
+- Discord: `stolenuchiha`
+- GitHub: [@notdinotv](https://github.com/dNotDinoTV)
+- (Optional) Weitere Links z. B. zu Projekten oder Socials
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deinUsername&label=Profilaufrufe&color=blue" alt="Profilaufrufe" />
+</p>
