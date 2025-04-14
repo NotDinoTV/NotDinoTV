@@ -27,7 +27,6 @@
 ### 📫 Kontakt
 - Discord: `stolenuchiha`
 - GitHub: [@notdinotv](https://github.com/dNotDinoTV)
-- (Optional) Weitere Links z. B. zu Projekten oder Socials
 
 ---
 
