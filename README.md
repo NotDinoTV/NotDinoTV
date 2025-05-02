@@ -1,41 +1,28 @@
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00C4FF&center=true&vCenter=true&width=400&lines=Minecraft+Developer" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hi there 👋 I'm [YourName]</h1>
 
 <p align="center">
-  <strong>Java & Kotlin enthusiast • 16 y/o developer • Helper on Dani SMP</strong>
+  🧠 Passionate Developer in <strong>Web</strong>, <strong>Software</strong> & <strong>Minecraft</strong>
 </p>
 
 ---
 
-## 🧩 About Me
-- 🔹 I'm **Dino**, a 16-year-old developer passionate about Minecraft modding and server work  
-- 🔹 Mainly working with **Java** and **Kotlin**  
-- 🔹 Helper on the **Dani SMP** community  
-- 🔹 Love learning new technologies and improving my code structure  
+### 🧪 About Me
+
+- 🔧 I mainly use **Lua**, **Python**, and **Java**
+- 🌐 Comfortable with **HTML**, **CSS**, and **JavaScript**
+- 🎮 Building Minecraft plugins, web apps, and tools
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</p>
+### 📊 Most Used Languages
 
----
+<div align="center">
 
-## 📫 Connect with Me
-- 💬 Discord: `dino.dev`  
-- 🔗 GitHub: [@NotDinoTV](https://github.com/NotDinoTV)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark&langs_count=6)
 
----
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NotDinoTV&label=Profile+Views&color=blue" alt="Profile Views" />
-</p>
+Or use this custom-style language bar (static example below, replace with real percentages or GitHub stats):
+
+```css
+/* Style Preview (Not for README directly) */
