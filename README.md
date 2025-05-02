@@ -25,4 +25,9 @@
 Or use this custom-style language bar (static example below, replace with real percentages or GitHub stats):
 
 ```css
-/* Style Preview (Not for README directly) */
+🔵 Lua       ████████████████████████████░░░░░░░ 55%  
+🔷 Python    ███████████████████████░░░░░░░░░░░░ 45%  
+🟦 HTML      ██████████████░░░░░░░░░░░░░░░░░░░░░ 34%  
+🟦 CSS       ██████████████░░░░░░░░░░░░░░░░░░░░░ 33%  
+🟦 JS        ██████████████░░░░░░░░░░░░░░░░░░░░░ 33%
+
