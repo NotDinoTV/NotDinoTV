@@ -12,7 +12,7 @@
 
 - 🔧 **Main Languages**: Lua, Python, Java  
 - 🌐 **Web Stack**: HTML, CSS, JavaScript  
-- 🧱 **Minecraft** Plugins & Mods Develope
+- 🧱 **Minecraft** Plugins & Mods Developer
 
 ---
 
