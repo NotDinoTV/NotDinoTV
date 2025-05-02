@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm [YourName]</h1>
+<h1 align="center">Hi I'm Dino</h1>
 
 <p align="center">
   🧠 Passionate Developer in <strong>Web</strong>, <strong>Software</strong> & <strong>Minecraft</strong>
